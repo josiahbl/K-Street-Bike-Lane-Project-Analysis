@@ -42,7 +42,7 @@ To accomplish this, we make use of a difference-in-difference approach to compar
 
 ![Screenshot 2023-11-26 133146](https://github.com/josiahbl/K-Street-Bike-Lane-Project-Analysis/assets/144189314/72a1394b-6a83-4320-9007-5b30bc09dbab)
 
-2. Manual filtering of the segments within 2 miles of the study corridor for just those that are qualitatively similar to K Street, based on my understanding the city
+2. Manual filtering of the segments within 2 miles of the study corridor for just those that are qualitatively similar to K Street, based on my understanding the city. These are: 7th St NW, 9th St NW, 14th St NW, 15th St NW, Columbia Rd NW, E St NE, E St NW, Florida Ave NW, G St NE, G St NW, Georgia Ave NW, K St NE, K St NW, M St NE, M St NW, New Jersey Ave NW, Q St NE, Q St NW, R St NE, R St NW, S St NE, S St NW, V St NE, V St NW, W St NE, and W St NW.
 
 ![Screenshot 2023-11-26 133004](https://github.com/josiahbl/K-Street-Bike-Lane-Project-Analysis/assets/144189314/50d0a8c9-c84d-4122-9edd-f6d4aba7177a)
 
