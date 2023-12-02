@@ -39,12 +39,19 @@ To accomplish this, we make use of a difference-in-difference approach to compar
 <p> A crucial first step to carry out a difference in difference approach is to identify a group of appropriate control corridors. We need this control group to meet the Parallel Trends Assumption, meaning that in the absence of the treatment, we would expect the control and the treatments to experience the same trends. We are limited by data availability to a single datapoint in the before period, which prevents us from carefully checking for parallel trends. At best, we must select control roads that we are reasonably confident in assuming experienced similar trends to the treatment in the before period. We do this using two strategies to select control segments:
   
 1. All segments within 2 miles of the study corridor (1.5 miles of the study area), filtered for just named roads (no alleys, driveways, or other small roads)
+
+![Screenshot 2023-11-26 133146](https://github.com/josiahbl/K-Street-Bike-Lane-Project-Analysis/assets/144189314/72a1394b-6a83-4320-9007-5b30bc09dbab)
+
 2. Manual filtering of the segments within 2 miles of the study corridor for just those that are qualitatively similar to K Street, based on my understanding the city
+
+![Screenshot 2023-11-26 133004](https://github.com/josiahbl/K-Street-Bike-Lane-Project-Analysis/assets/144189314/50d0a8c9-c84d-4122-9edd-f6d4aba7177a)
 
 
 These two strategies generate similar results, which provides additional confidence in our conclusions.
 
-Replica trip data is split between roads and sidewalks and is split based on traffic directionally (see below). ![image](https://github.com/josiahbl/RIndependentStudioSum23/assets/144189314/c0952b60-d822-4f91-add5-4a5f6ab2dd2c)
+Replica trip data is split between roads and sidewalks and is split based on traffic directionally (see below).
+![Screenshot 2023-12-02 142006](https://github.com/josiahbl/K-Street-Bike-Lane-Project-Analysis/assets/144189314/2c292cc0-5ecd-427f-b4c4-5e693457bfaf)
+
 
 I use an R script to consolidate Replica data into single line features for each road. In effect, we assign sidewalk segments to the nearest road coded in the same direction, and then I aggregate the trip data. This methodology is not perfect, but it gets us very close to a perfect consolidation. 
 
