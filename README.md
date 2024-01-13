@@ -71,7 +71,10 @@ Below is a high-level sample methodology:
 4. **Difference in difference**: Compare the difference in bicycle share between the study corridor and the control and the study area and the control. That is, take the difference of these two values. This estimates the change in bicycle share in the study corridor that cannot be explained exogenously (covid, other environmental trends). This is the causal effect of the intervention.
 
 ### Conclusions
-Note: The numbers includes below are based on strategy #2 (selected controls).  
+Note: The numbers included below are based on strategy #2 (selected controls).  
+<p>
+  
+</p>
 The study corridor saw a substantial increase in bike trips and share (+350%). The increase in biking ppears to have spilled over into the study area (+43%). <p>
 Relative to controls, walk share declined slightly in both the study corridor (-26%) and study area (-28%). Biking may have replaced some trips that were previously made on foot. <p>
 Vehicle trip share fell very slightly in the study corridor (-10%) despite seeing marginal increases in the study area (+33%). Ultimately, this suggests that the street design change had a limited effect on vehicle movements, though some traffic may have rerouted to surrounding streets. <p>
