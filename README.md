@@ -76,11 +76,22 @@ Note: The numbers included below are based on strategy #2 (selected controls).
   
 </p>
 The study corridor saw a substantial increase in bike trips and share (+350%). The increase in biking ppears to have spilled over into the study area (+43%). <p>
+<p>
+  
+</p>
 Relative to controls, walk share declined slightly in both the study corridor (-26%) and study area (-28%). Biking may have replaced some trips that were previously made on foot. <p>
-Vehicle trip share fell very slightly in the study corridor (-10%) despite seeing marginal increases in the study area (+33%). Ultimately, this suggests that the street design change had a limited effect on vehicle movements, though some traffic may have rerouted to surrounding streets. <p>
-The rate of crashes per trip fell for all modes: bike (-32%), auto (-53%), and walking (-19%). However, I would caution against reading into these results due to limited data and methodological limitations. <p>
-Business sales in the two Census Tracts used as proxies for the study corridor saw significant growth, particularly after the street design intervention. This growth outpaced the average in the District by about 200%. <p>
-Overall, the intervention had significant benefits for travel by bicycle and economic activity. It appears to have had a positive effect on safety. And it did not dramatically affect travel by other modes; indeed, vehicle travel, at least in terms of trips and trip share, was not seriously affected. 
+<p>
+  
+</p>Vehicle trip share fell very slightly in the study corridor (-10%) despite seeing marginal increases in the study area (+33%). Ultimately, this suggests that the street design change had a limited effect on vehicle movements, though some traffic may have rerouted to surrounding streets. <p>
+<p>
+  
+</p>The rate of crashes per trip fell for all modes: bike (-32%), auto (-53%), and walking (-19%). However, I would caution against reading into these results due to limited data and methodological limitations. <p>
+<p>
+  
+</p>Business sales in the two Census Tracts used as proxies for the study corridor saw significant growth, particularly after the street design intervention. This growth outpaced the average in the District by about 200%. <p>
+<p>
+  
+</p>Overall, the intervention had significant benefits for travel by bicycle and economic activity. It appears to have had a positive effect on safety. And it did not dramatically affect travel by other modes; indeed, vehicle travel, at least in terms of trips and trip share, was not seriously affected. 
 
 ### Limitations and Future Research
 There are several limitations in this research, which offer opportunities for future research. I group these into four categories:
