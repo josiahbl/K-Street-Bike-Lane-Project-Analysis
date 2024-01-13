@@ -75,7 +75,7 @@ Note: The numbers included below are based on strategy #2 (selected controls).
 <p>
   
 </p>
-The study corridor saw a substantial increase in bike trips and share (+350%). The increase in biking ppears to have spilled over into the study area (+43%). <p>
+The study corridor saw a substantial increase in bike trips and share (+350%). The increase in biking appears to have spilled over into the study area (+43%). <p>
 <p>
   
 </p>
